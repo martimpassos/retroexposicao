@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://retroexposicao-iiif.vercel.app/13/bda7327f9fdbc746af075f792f358f73",
+  "id": "https://retroexposicao-mu.vercel.app/13/bda7327f9fdbc746af075f792f358f73",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",

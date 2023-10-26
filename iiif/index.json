@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://retroexposicao-iiif.vercel.app/index.json",
+    "id": "https://retroexposicao-mu.vercel.app/index.json",
     "type": "Collection",
     "label": {
         "none": [
@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://retroexposicao-iiif.vercel.app/2/d322b75cb5e34cdaf853277c1f872ac8/full/300,199/0/default.jpg",
+            "id": "https://retroexposicao-mu.vercel.app/2/d322b75cb5e34cdaf853277c1f872ac8/full/300,199/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 199,
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "https://retroexposicao-iiif.vercel.app/2/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/2/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -27,7 +27,7 @@
             }
         },
         {
-            "id": "https://retroexposicao-iiif.vercel.app/1/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -36,7 +36,7 @@
             }
         },
         {
-            "id": "https://retroexposicao-iiif.vercel.app/3/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/3/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -45,7 +45,7 @@
             }
         },
         {
-            "id": "https://retroexposicao-iiif.vercel.app/6/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/6/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -54,7 +54,7 @@
             }
         },
         {
-            "id": "https://retroexposicao-iiif.vercel.app/7/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/7/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -63,7 +63,7 @@
             }
         },
         {
-            "id": "https://retroexposicao-iiif.vercel.app/13/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/13/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -72,7 +72,7 @@
             }
         },
         {
-            "id": "https://retroexposicao-iiif.vercel.app/10/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/10/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -81,7 +81,7 @@
             }
         },
         {
-            "id": "https://retroexposicao-iiif.vercel.app/11/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/11/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -90,7 +90,7 @@
             }
         },
         {
-            "id": "https://retroexposicao-iiif.vercel.app/8/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/8/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -99,7 +99,7 @@
             }
         },
         {
-            "id": "https://retroexposicao-iiif.vercel.app/4/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/4/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -108,7 +108,7 @@
             }
         },
         {
-            "id": "https://retroexposicao-iiif.vercel.app/12/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/12/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -117,7 +117,7 @@
             }
         },
         {
-            "id": "https://retroexposicao-iiif.vercel.app/8/manifest.json",
+            "id": "https://retroexposicao-mu.vercel.app/8/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [

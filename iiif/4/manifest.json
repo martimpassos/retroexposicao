@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://retroexposicao-iiif.vercel.app/4/manifest.json",
+    "id": "https://retroexposicao-mu.vercel.app/4/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -47,7 +47,7 @@
     ],
     "thumbnail": [
         {
-            "id": "https://retroexposicao-iiif.vercel.app/4/8141380bce496d26632174df1d0f02bb/full/300,199/0/default.jpg",
+            "id": "https://retroexposicao-mu.vercel.app/4/8141380bce496d26632174df1d0f02bb/full/300,199/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 199,
@@ -67,29 +67,29 @@
     ],
     "items": [
         {
-            "id": "https://retroexposicao-iiif.vercel.app/4/canvas/0",
+            "id": "https://retroexposicao-mu.vercel.app/4/canvas/0",
             "type": "Canvas",
             "height": 2000,
             "width": 3008,
             "items": [
                 {
-                    "id": "https://retroexposicao-iiif.vercel.app/4/canvas/0/annotation-page",
+                    "id": "https://retroexposicao-mu.vercel.app/4/canvas/0/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://retroexposicao-iiif.vercel.app/4/annotation/0",
+                            "id": "https://retroexposicao-mu.vercel.app/4/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://retroexposicao-iiif.vercel.app/4/canvas/0",
+                            "target": "https://retroexposicao-mu.vercel.app/4/canvas/0",
                             "body": {
-                                "id": "https://retroexposicao-iiif.vercel.app/4/8141380bce496d26632174df1d0f02bb/full/2000,1330/0/default.jpg",
+                                "id": "https://retroexposicao-mu.vercel.app/4/8141380bce496d26632174df1d0f02bb/full/2000,1330/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1330,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "https://retroexposicao-iiif.vercel.app/4/8141380bce496d26632174df1d0f02bb",
+                                        "id": "https://retroexposicao-mu.vercel.app/4/8141380bce496d26632174df1d0f02bb",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
