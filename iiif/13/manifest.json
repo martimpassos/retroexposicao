@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://retroexposicao-iiif.vercel.app/13/manifest.json",
     "type": "Manifest",
     "label": {
@@ -91,7 +91,7 @@
                                     {
                                         "id": "https://retroexposicao-iiif.vercel.app/13/bb95249568e34b971b19fb975df59a32",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
@@ -125,7 +125,7 @@
                                     {
                                         "id": "https://retroexposicao-iiif.vercel.app/13/d50c4b6ad31d93b2ee9d83bf293da7bc",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
@@ -159,7 +159,7 @@
                                     {
                                         "id": "https://retroexposicao-iiif.vercel.app/13/bda7327f9fdbc746af075f792f358f73",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
@@ -193,7 +193,7 @@
                                     {
                                         "id": "https://retroexposicao-iiif.vercel.app/13/3c9de60f30fbb5dfcdfbaddf04f55cf4",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
@@ -227,7 +227,7 @@
                                     {
                                         "id": "https://retroexposicao-iiif.vercel.app/13/b523abf64071155aa76e85024efc5623",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
@@ -261,7 +261,7 @@
                                     {
                                         "id": "https://retroexposicao-iiif.vercel.app/13/b504500d025200a1c988af833dc33f9b",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
@@ -295,7 +295,7 @@
                                     {
                                         "id": "https://retroexposicao-iiif.vercel.app/13/b91622c0bcf0319b2b47b43f69d78390",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }

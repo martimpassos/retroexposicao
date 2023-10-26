@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://retroexposicao-iiif.vercel.app/4/manifest.json",
     "type": "Manifest",
     "label": {
@@ -91,7 +91,7 @@
                                     {
                                         "id": "https://retroexposicao-iiif.vercel.app/4/8141380bce496d26632174df1d0f02bb",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }

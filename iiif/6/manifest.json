@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://retroexposicao-iiif.vercel.app/6/manifest.json",
     "type": "Manifest",
     "label": {
@@ -91,7 +91,7 @@
                                     {
                                         "id": "https://retroexposicao-iiif.vercel.app/6/0ac95f03f58eab626debef7246e8b2f2",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
@@ -125,7 +125,7 @@
                                     {
                                         "id": "https://retroexposicao-iiif.vercel.app/6/d66cc7a8fd5fcd6b5dd42001bf3f9f13",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
