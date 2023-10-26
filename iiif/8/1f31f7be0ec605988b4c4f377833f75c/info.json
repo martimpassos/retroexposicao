@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "http://retroexposicao-iiif.vercel.app//8/1f31f7be0ec605988b4c4f377833f75c",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 256
+    }
+  ],
+  "width": 2240,
+  "height": 1488,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 199
+    },
+    {
+      "width": 2000,
+      "height": 1329
+    }
+  ]
+}

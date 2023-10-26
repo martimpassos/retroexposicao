@@ -1,0 +1,129 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://retroexposicao-iiif.vercel.app//index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Retrô Exposição"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//2/d322b75cb5e34cdaf853277c1f872ac8/full/300,199/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 199,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//2/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Biblioteca Central "
+                ]
+            }
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ciclo Básico "
+                ]
+            }
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//3/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Congresso de Iniciação Científica  "
+                ]
+            }
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//6/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Feira do Livro"
+                ]
+            }
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//7/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Festival Inter Música "
+                ]
+            }
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//13/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Fotos Antigas"
+                ]
+            }
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//10/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Iniciação Científica "
+                ]
+            }
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//11/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Laboratório de Bioaromas "
+                ]
+            }
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ópera no Teatro "
+                ]
+            }
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//4/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Pesquisa em Laboratório"
+                ]
+            }
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//12/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Unicamp de Portas Abertas"
+                ]
+            }
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ópera no Teatro "
+                ]
+            }
+        }
+    ]
+}

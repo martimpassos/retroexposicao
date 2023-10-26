@@ -1,0 +1,138 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://retroexposicao-iiif.vercel.app//6/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Feira do Livro"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Assessoria de Imprensa"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2010"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//6/0ac95f03f58eab626debef7246e8b2f2/full/300,199/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 199,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página de Objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//6/canvas/0",
+            "type": "Canvas",
+            "height": 1488,
+            "width": 2240,
+            "items": [
+                {
+                    "id": "http://retroexposicao-iiif.vercel.app//6/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://retroexposicao-iiif.vercel.app//6/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://retroexposicao-iiif.vercel.app//6/canvas/0",
+                            "body": {
+                                "id": "http://retroexposicao-iiif.vercel.app//6/0ac95f03f58eab626debef7246e8b2f2/full/2000,1329/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1329,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "http://retroexposicao-iiif.vercel.app//6/0ac95f03f58eab626debef7246e8b2f2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//6/canvas/1",
+            "type": "Canvas",
+            "height": 1488,
+            "width": 2240,
+            "items": [
+                {
+                    "id": "http://retroexposicao-iiif.vercel.app//6/canvas/1/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://retroexposicao-iiif.vercel.app//6/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://retroexposicao-iiif.vercel.app//6/canvas/1",
+                            "body": {
+                                "id": "http://retroexposicao-iiif.vercel.app//6/d66cc7a8fd5fcd6b5dd42001bf3f9f13/full/2000,1329/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1329,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "http://retroexposicao-iiif.vercel.app//6/d66cc7a8fd5fcd6b5dd42001bf3f9f13",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

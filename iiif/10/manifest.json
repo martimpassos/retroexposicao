@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://retroexposicao-iiif.vercel.app//10/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Iniciação Científica "
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Assessoria de Imprensa"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2008"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//10/f4319aa02dc8009ded2112bffe4e20ab/full/199,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 199
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página de Objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "http://retroexposicao-iiif.vercel.app//10/canvas/0",
+            "type": "Canvas",
+            "height": 2240,
+            "width": 1488,
+            "items": [
+                {
+                    "id": "http://retroexposicao-iiif.vercel.app//10/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "http://retroexposicao-iiif.vercel.app//10/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "http://retroexposicao-iiif.vercel.app//10/canvas/0",
+                            "body": {
+                                "id": "http://retroexposicao-iiif.vercel.app//10/f4319aa02dc8009ded2112bffe4e20ab/full/1329,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1329,
+                                "service": [
+                                    {
+                                        "id": "http://retroexposicao-iiif.vercel.app//10/f4319aa02dc8009ded2112bffe4e20ab",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
